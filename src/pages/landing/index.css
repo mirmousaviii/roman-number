@@ -1,24 +1,30 @@
 .search-box {
-    border-bottom: 1px solid rgba(0,0,0,0.12);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
     padding: 20px;
-    background-color: rgba(0,0,0,0.04);
+    background-color: rgba(0, 0, 0, 0.04);
 }
-.search-box h4{
+
+.search-box h4 {
     margin-bottom: 40px;
 }
-.resultBox{
+
+.resultBox {
     padding: 20px;
 }
-.ml-10{
-    margin-left: 10px!important;
+
+.ml-10 {
+    margin-left: 10px !important;
 }
-.MuiOutlinedInput-input{
-    padding: 13.5px 14px!important;
+
+.MuiOutlinedInput-input {
+    padding: 13.5px 14px !important;
 }
-.MuiInputBase-input{
-    height: 0.57em!important;
+
+.MuiInputBase-input {
+    height: 0.57em !important;
 }
-.MuiFormLabel-root{
-    line-height: 0!important;
-    font-size: 0.9rem!important;
+
+.MuiFormLabel-root {
+    line-height: 0 !important;
+    font-size: 0.9rem !important;
 }
