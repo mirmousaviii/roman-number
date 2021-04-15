@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/roman-number/static/css/main.a33edb36.chunk.css",
+    "main.js": "/roman-number/static/js/main.3f4174af.chunk.js",
+    "main.js.map": "/roman-number/static/js/main.3f4174af.chunk.js.map",
+    "runtime-main.js": "/roman-number/static/js/runtime-main.9e407103.js",
+    "runtime-main.js.map": "/roman-number/static/js/runtime-main.9e407103.js.map",
+    "static/js/2.68bc8469.chunk.js": "/roman-number/static/js/2.68bc8469.chunk.js",
+    "static/js/2.68bc8469.chunk.js.map": "/roman-number/static/js/2.68bc8469.chunk.js.map",
+    "static/js/3.31f292fe.chunk.js": "/roman-number/static/js/3.31f292fe.chunk.js",
+    "static/js/3.31f292fe.chunk.js.map": "/roman-number/static/js/3.31f292fe.chunk.js.map",
+    "index.html": "/roman-number/index.html",
+    "static/css/main.a33edb36.chunk.css.map": "/roman-number/static/css/main.a33edb36.chunk.css.map",
+    "static/js/2.68bc8469.chunk.js.LICENSE.txt": "/roman-number/static/js/2.68bc8469.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e407103.js",
+    "static/js/2.68bc8469.chunk.js",
+    "static/css/main.a33edb36.chunk.css",
+    "static/js/main.3f4174af.chunk.js"
+  ]
+}
